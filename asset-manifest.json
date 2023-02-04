@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/suryamani7/Daily-Task-React/static/css/main.43c67b03.css",
+    "main.js": "/suryamani7/Daily-Task-React/static/js/main.309e8dfa.js",
+    "index.html": "/suryamani7/Daily-Task-React/index.html",
+    "main.43c67b03.css.map": "/suryamani7/Daily-Task-React/static/css/main.43c67b03.css.map",
+    "main.309e8dfa.js.map": "/suryamani7/Daily-Task-React/static/js/main.309e8dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c67b03.css",
+    "static/js/main.309e8dfa.js"
+  ]
+}
