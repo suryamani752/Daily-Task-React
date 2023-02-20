@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Daily-Task-React/static/css/main.43c67b03.css",
+    "main.css": "/Daily-Task-React/static/css/main.ff1694f4.css",
     "main.js": "/Daily-Task-React/static/js/main.309e8dfa.js",
     "index.html": "/Daily-Task-React/index.html",
-    "main.43c67b03.css.map": "/Daily-Task-React/static/css/main.43c67b03.css.map",
+    "main.ff1694f4.css.map": "/Daily-Task-React/static/css/main.ff1694f4.css.map",
     "main.309e8dfa.js.map": "/Daily-Task-React/static/js/main.309e8dfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c67b03.css",
+    "static/css/main.ff1694f4.css",
     "static/js/main.309e8dfa.js"
   ]
 }
